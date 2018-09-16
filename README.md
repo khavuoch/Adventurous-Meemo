@@ -4,5 +4,10 @@ Adventurous Meemo is an action platformer game set in a 2D environment. The game
 In this game, You play as Meemo, a child in search of his lost family. To find them you must bounce through a world full of Jelly Fish, Giant Squid, Pufferfish who stand in your way. You must use your bouncing skills to traverse these obstacles with the help of some Starfish and Bubbles.
 # Screenshots
 
+![](https://github.com/vuochnin/Adventurous-Meemo/blob/master/Screenshots/menu.png)
+![](https://github.com/vuochnin/Adventurous-Meemo/blob/master/Screenshots/level1.png)
+![](https://github.com/vuochnin/Adventurous-Meemo/blob/master/Screenshots/level2.png)
+![](https://github.com/vuochnin/Adventurous-Meemo/blob/master/Screenshots/credits.png)
+
 [//]: # (include the trailer video from youtube?)
 [Link to Trailer Video](https://youtu.be/G7YBflWLInM)
